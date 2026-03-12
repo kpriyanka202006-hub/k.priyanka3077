@@ -1,0 +1,14 @@
+def add(a,b):
+    returena+b
+    class sample:
+       def display(self):
+        print("This is a class method")
+    print(add(10,7))
+    obj=sample()
+    obj.display()
+
+
+
+
+17
+This is a class method
