@@ -1,4 +1,4 @@
-text = "Priyanka"
+text = "Python Data science"
 print(text.upper())
 f = open("sample.txt", "w")
 f.write(text)
@@ -12,8 +12,9 @@ f.close()
 
 
 
-PRIYANKA 
-priyanka 
+PYTHON DATA SCIENCE 
+Python Data science 
+
 
 
 
