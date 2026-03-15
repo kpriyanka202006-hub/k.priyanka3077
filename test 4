@@ -1,4 +1,4 @@
-text = "Priyank" 
+text = "Priyanka" 
 print(text.upper()) 
 f = open("sample.txt", "w") 
 f.write(text) 
