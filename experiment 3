@@ -3,12 +3,12 @@ def add(a,b):
     class sample:
        def display(self):
         print("This is classmethod")
-    print(add(10,7))
+    print(add(5,3))
     obj=sample()
     obj.display()
 
 
 
 
-17
+8
 This is a class method
