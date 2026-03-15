@@ -2,7 +2,7 @@ def add(a,b):
     returena+b
     class sample:
        def display(self):
-        print("This is a class method")
+        print("This is a classmethod")
     print(add(10,7))
     obj=sample()
     obj.display()
